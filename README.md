@@ -1,4 +1,4 @@
-# sobre min
+# informações sobre min
 
 ## editando perfil
 
